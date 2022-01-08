@@ -35,6 +35,11 @@ body
     color: black;
 }
 
+.temp a:hover
+{
+    color:white;
+}
+
 .list-group li:nth-child(2)
 {
     border-top: none;
